@@ -1,4 +1,9 @@
-hiiiiiiiiiiiiiiiiii
-jjjjjjjjjjjjjjjjjjj
-kkkkkkkkkkkkkkkkkkk
-lllllllllllllllll
+install git on ubuntu
+sudo apt update
+sudo apt install git
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+If you need to edit this file, you can use a text editor such as nano
+nano ~/.gitconfig
+
